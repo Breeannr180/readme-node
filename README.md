@@ -1,10 +1,10 @@
-# BreeAnn
+# BreeAnn Readme
 
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description
   
-  na
+  This projct was created to allow users to auto generate a professional read.me.
   
   ## Table of Contents
   
@@ -18,11 +18,11 @@
   
   ## Installation-Instructions
   
-  na
+  NA
   
   ## Usage
   
-  na
+  Anyone can use.
   
   ## License
 
@@ -30,13 +30,13 @@ This project is licensed under the MIT license.
   
   ## Contributing
   
-  na
+  NA
   
   ## Tests
   
-  na
+  NA
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at breeannr@hotmail.com. You can find more of my work at breeannr180.
+  If you have any questions about the repo, open an issue or contact me directly at Breeannr@hotmail.com. You can find more of my work at Breeannr180.
   
